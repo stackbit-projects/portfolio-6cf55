@@ -1,7 +1,7 @@
 generator = { }
 
 [hello]
-other = "Hell0"
+other = "Hell"
 
 [i-am]
 other = "I am happy "
