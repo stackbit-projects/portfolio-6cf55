@@ -8,7 +8,7 @@ themesDir = "themes"
 publishDir = "public"
 
 [Author]
-name = "Hllo"
+name = "Hello"
 
 [[params.links]]
 iconset = "fas"
