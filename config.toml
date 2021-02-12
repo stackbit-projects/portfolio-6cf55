@@ -14,7 +14,7 @@ name = "Andrew Bunker"
 iconset = "fas"
 icon = "envelope"
 title = "E-mail"
-url = "mailto:mail@example.org"
+url = "mailto:andrew.thomas.bunker@gmail.com"
 
 [[params.links]]
 icon = "github"
