@@ -4,4 +4,4 @@ generator = { }
 other = "Hello"
 
 [i-am]
-other = "The future is now."
+other = "My name is"
